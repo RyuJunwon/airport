@@ -13,6 +13,7 @@ public class Util {
 		SimpleDateFormat HHmm = new SimpleDateFormat("HH:mm");
 		return HHmm.format(date);
 	} ////////어ㅗ니어ㅣㅑ
+	////메야ㅐ러매ㅑ어ㅔㅐㅐㅓㅁㄴ러
 	
 	// String HH:mm 형태를 Date로 바꿔줌 
 	//	-> 크롤링 시 HH:mm 형태로 받아오는데 항공정보vo에 담을 때 에서 출발시간, 도착시간이 Date 자료형이라서
