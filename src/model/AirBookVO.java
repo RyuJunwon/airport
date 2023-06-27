@@ -21,6 +21,7 @@ public class AirBookVO {
 	private String tmpDate;
 	private String tmpString;
 	
+	// 수정
 
 	public AirBookVO(int airBooknum, String memberId, int airDetNum, int airBookCnt, Date airBookDate, String airBookCard) {
 		this.airBooknum = airBooknum;
