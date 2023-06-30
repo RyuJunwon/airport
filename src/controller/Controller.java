@@ -7,6 +7,7 @@ import model.AirBookDAO;
 import model.AirBookVO;
 ////////////
 /////jfjyfjhfsss
+// 머지 되게 해줘
 import model.AirDetDAO;
 import model.AirDetVO;
 import model.AirInfoDAO;
